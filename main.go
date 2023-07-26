@@ -16,7 +16,7 @@ func init() {
 }
 
 func main() {
-	fmt.Println("Transactions with Golang")
+	fmt.Println("Transactions with Golang using Beego and Gin")
 
 	router := gin.Default()
 
