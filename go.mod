@@ -6,6 +6,7 @@ require (
 	github.com/beego/beego v1.12.12
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-sql-driver/mysql v1.5.0
+	github.com/joho/godotenv v1.5.1
 )
 
 require (
